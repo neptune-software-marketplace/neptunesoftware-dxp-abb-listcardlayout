@@ -1,0 +1,47 @@
+{
+	"id": "053731A1-D90C-ED11-B47A-000D3AB2359F",
+	"createdAt": "2022-07-26T11:53:58.026Z",
+	"createdBy": "kristin.eliassen@neptune-software.com",
+	"git": {
+		"targetServers": [],
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-listcardlayout",
+		"testServers": []
+	},
+	"name": "neptunesoftware-dxp-abb-listcardlayout",
+	"description": null,
+	"ver": "22.7.26.1154",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "211AA893-760B-412A-B464-DF89329E4EBE",
+			"ver": "22.7.26.1354",
+			"application": "neptbb_list_item_cards",
+			"title": "WEBSHOP",
+			"description": "List Items as Tile Cards - Pure CSS"
+		}
+	],
+	"api": [],
+	"odataMock": [],
+	"odataSource": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"wf_definition": [],
+	"department": [],
+	"script_scheduler": [],
+	"connector": []
+}
